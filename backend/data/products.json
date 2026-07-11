@@ -1,0 +1,498 @@
+[
+  {
+    "id": "1",
+    "name": "",
+    "category": "Buket Price",
+    "price": 35000,
+    "image": "/images/1.jpeg",
+    "description": ""
+  },
+  {
+    "id": "2",
+    "name": "",
+    "category": "Buket Price",
+    "price": 35000,
+    "image": "/images/2.jpeg",
+    "description": ""
+  },
+  {
+    "id": "3",
+    "name": "",
+    "category": "Buket Price",
+    "price": 55000,
+    "image": "/images/3.jpeg",
+    "description": ""
+  },
+  {
+    "id": "4",
+    "name": "",
+    "category": "Buket Price",
+    "price": 55000,
+    "image": "/images/4.jpeg",
+    "description": ""
+  },
+  {
+    "id": "5",
+    "name": "",
+    "category": "Buket Price",
+    "price": 65000,
+    "image": "/images/5.jpeg",
+    "description": ""
+  },
+  {
+    "id": "6",
+    "name": "",
+    "category": "Buket Price",
+    "price": 65000,
+    "image": "/images/6.jpeg",
+    "description": ""
+  },
+  {
+    "id": "7",
+    "name": "",
+    "category": "Buket Price",
+    "price": 65000,
+    "image": "/images/7.jpeg",
+    "description": ""
+  },
+  {
+    "id": "8",
+    "name": "",
+    "category": "Buket Uang",
+    "price": {
+      "5 Lembar": 45000,
+      "10 Lembar": 55000,
+      "11-20 Lembar": 65000,
+      "21-30 Lembar": 100000,
+      "31-40 Lembar": 120000,
+      "41-50 Lembar": 150000,
+      "51-60 Lembar": 170000,
+      "61-70 Lembar": 190000,
+      "71-80 Lembar": 220000,
+      "81-90 Lembar": 240000,
+      "91-100 Lembar": 260000
+    },
+    "image": "/images/8.png",
+    "description": "5 LEMBAR RP.45.000, 10 LEMBAR RP.55.000, 11-20 LEMBAR RP.65.000, 21-30 LEMBAR RP.100.000, 31-40 LEMBAR RP.120.000, 41-50 LEMBAR RP.150.000, 51-60 LEMBAR RP.170.000, 61-70 LEMBAR RP.190.000, 71-80 LEMBAR RP.220.000, 81-90 LEMBAR RP.240.000, 91-100 LEMBAR RP.260.000"
+  },
+  {
+    "id": "9",
+    "name": "",
+    "category": "Buket Uang",
+    "price": {
+      "5 Lembar": 45000,
+      "10 Lembar": 55000,
+      "11-20 Lembar": 65000,
+      "21-30 Lembar": 100000,
+      "31-40 Lembar": 120000,
+      "41-50 Lembar": 150000,
+      "51-60 Lembar": 170000,
+      "61-70 Lembar": 190000,
+      "71-80 Lembar": 220000,
+      "81-90 Lembar": 240000,
+      "91-100 Lembar": 260000
+    },
+    "image": "/images/9.jpeg",
+    "description": "5 LEMBAR RP.45.000, 10 LEMBAR RP.55.000, 11-20 LEMBAR RP.65.000, 21-30 LEMBAR RP.100.000, 31-40 LEMBAR RP.120.000, 41-50 LEMBAR RP.150.000, 51-60 LEMBAR RP.170.000, 61-70 LEMBAR RP.190.000, 71-80 LEMBAR RP.220.000, 81-90 LEMBAR RP.240.000, 91-100 LEMBAR RP.260.000"
+  },
+  {
+    "id": "10",
+    "name": "",
+    "category": "Buket Uang",
+    "price": {
+      "5 Lembar": 45000,
+      "10 Lembar": 55000,
+      "11-20 Lembar": 65000,
+      "21-30 Lembar": 100000,
+      "31-40 Lembar": 120000,
+      "41-50 Lembar": 150000,
+      "51-60 Lembar": 170000,
+      "61-70 Lembar": 190000,
+      "71-80 Lembar": 220000,
+      "81-90 Lembar": 240000,
+      "91-100 Lembar": 260000
+    },
+    "image": "/images/10.jpeg",
+    "description": "5 LEMBAR RP.45.000, 10 LEMBAR RP.55.000, 11-20 LEMBAR RP.65.000, 21-30 LEMBAR RP.100.000, 31-40 LEMBAR RP.120.000, 41-50 LEMBAR RP.150.000, 51-60 LEMBAR RP.170.000, 61-70 LEMBAR RP.190.000, 71-80 LEMBAR RP.220.000, 81-90 LEMBAR RP.240.000, 91-100 LEMBAR RP.260.000"
+  },
+  {
+    "id": "11",
+    "name": "",
+    "category": "Buket Uang",
+    "price": {
+      "5 Lembar": 45000,
+      "10 Lembar": 55000,
+      "11-20 Lembar": 65000,
+      "21-30 Lembar": 100000,
+      "31-40 Lembar": 120000,
+      "41-50 Lembar": 150000,
+      "51-60 Lembar": 170000,
+      "61-70 Lembar": 190000,
+      "71-80 Lembar": 220000,
+      "81-90 Lembar": 240000,
+      "91-100 Lembar": 260000
+    },
+    "image": "/images/11.png",
+    "description": "5 LEMBAR RP.45.000, 10 LEMBAR RP.55.000, 11-20 LEMBAR RP.65.000, 21-30 LEMBAR RP.100.000, 31-40 LEMBAR RP.120.000, 41-50 LEMBAR RP.150.000, 51-60 LEMBAR RP.170.000, 61-70 LEMBAR RP.190.000, 71-80 LEMBAR RP.220.000, 81-90 LEMBAR RP.240.000, 91-100 LEMBAR RP.260.000"
+  },
+  {
+    "id": "12",
+    "name": "",
+    "category": "Buket Uang",
+    "price": {
+      "5 Lembar": 45000,
+      "10 Lembar": 55000,
+      "11-20 Lembar": 65000,
+      "21-30 Lembar": 100000,
+      "31-40 Lembar": 120000,
+      "41-50 Lembar": 150000,
+      "51-60 Lembar": 170000,
+      "61-70 Lembar": 190000,
+      "71-80 Lembar": 220000,
+      "81-90 Lembar": 240000,
+      "91-100 Lembar": 260000
+    },
+    "image": "/images/12.jpeg",
+    "description": "5 LEMBAR RP.45.000, 10 LEMBAR RP.55.000, 11-20 LEMBAR RP.65.000, 21-30 LEMBAR RP.100.000, 31-40 LEMBAR RP.120.000, 41-50 LEMBAR RP.150.000, 51-60 LEMBAR RP.170.000, 61-70 LEMBAR RP.190.000, 71-80 LEMBAR RP.220.000, 81-90 LEMBAR RP.240.000, 91-100 LEMBAR RP.260.000"
+  },
+  {
+    "id": "13",
+    "name": "",
+    "category": "Buket Uang",
+    "price": {
+      "5 Lembar": 45000,
+      "10 Lembar": 55000,
+      "11-20 Lembar": 65000,
+      "21-30 Lembar": 100000,
+      "31-40 Lembar": 120000,
+      "41-50 Lembar": 150000,
+      "51-60 Lembar": 170000,
+      "61-70 Lembar": 190000,
+      "71-80 Lembar": 220000,
+      "81-90 Lembar": 240000,
+      "91-100 Lembar": 260000
+    },
+    "image": "/images/13.jpeg",
+    "description": "5 LEMBAR RP.45.000, 10 LEMBAR RP.55.000, 11-20 LEMBAR RP.65.000, 21-30 LEMBAR RP.100.000, 31-40 LEMBAR RP.120.000, 41-50 LEMBAR RP.150.000, 51-60 LEMBAR RP.170.000, 61-70 LEMBAR RP.190.000, 71-80 LEMBAR RP.220.000, 81-90 LEMBAR RP.240.000, 91-100 LEMBAR RP.260.000"
+  },
+  {
+    "id": "14",
+    "name": "",
+    "category": "Buket Uang",
+    "price": {
+      "5 Lembar": 45000,
+      "10 Lembar": 55000,
+      "11-20 Lembar": 65000,
+      "21-30 Lembar": 100000,
+      "31-40 Lembar": 120000,
+      "41-50 Lembar": 150000,
+      "51-60 Lembar": 170000,
+      "61-70 Lembar": 190000,
+      "71-80 Lembar": 220000,
+      "81-90 Lembar": 240000,
+      "91-100 Lembar": 260000
+    },
+    "image": "/images/14.jpeg",
+    "description": "5 LEMBAR RP.45.000, 10 LEMBAR RP.55.000, 11-20 LEMBAR RP.65.000, 21-30 LEMBAR RP.100.000, 31-40 LEMBAR RP.120.000, 41-50 LEMBAR RP.150.000, 51-60 LEMBAR RP.170.000, 61-70 LEMBAR RP.190.000, 71-80 LEMBAR RP.220.000, 81-90 LEMBAR RP.240.000, 91-100 LEMBAR RP.260.000"
+  },
+  {
+    "id": "15",
+    "name": "",
+    "category": "Buket Uang",
+    "price": {
+      "5 Lembar": 45000,
+      "10 Lembar": 55000,
+      "11-20 Lembar": 65000,
+      "21-30 Lembar": 100000,
+      "31-40 Lembar": 120000,
+      "41-50 Lembar": 150000,
+      "51-60 Lembar": 170000,
+      "61-70 Lembar": 190000,
+      "71-80 Lembar": 220000,
+      "81-90 Lembar": 240000,
+      "91-100 Lembar": 260000
+    },
+    "image": "/images/15.png",
+    "description": "5 LEMBAR RP.45.000, 10 LEMBAR RP.55.000, 11-20 LEMBAR RP.65.000, 21-30 LEMBAR RP.100.000, 31-40 LEMBAR RP.120.000, 41-50 LEMBAR RP.150.000, 51-60 LEMBAR RP.170.000, 61-70 LEMBAR RP.190.000, 71-80 LEMBAR RP.220.000, 81-90 LEMBAR RP.240.000, 91-100 LEMBAR RP.260.000"
+  },
+  {
+    "id": "16",
+    "name": "",
+    "category": "Buket Uang",
+    "price": {
+      "5 Lembar": 45000,
+      "10 Lembar": 55000,
+      "11-20 Lembar": 65000,
+      "21-30 Lembar": 100000,
+      "31-40 Lembar": 120000,
+      "41-50 Lembar": 150000,
+      "51-60 Lembar": 170000,
+      "61-70 Lembar": 190000,
+      "71-80 Lembar": 220000,
+      "81-90 Lembar": 240000,
+      "91-100 Lembar": 260000
+    },
+    "image": "/images/16.jpeg",
+    "description": "5 LEMBAR RP.45.000, 10 LEMBAR RP.55.000, 11-20 LEMBAR RP.65.000, 21-30 LEMBAR RP.100.000, 31-40 LEMBAR RP.120.000, 41-50 LEMBAR RP.150.000, 51-60 LEMBAR RP.170.000, 61-70 LEMBAR RP.190.000, 71-80 LEMBAR RP.220.000, 81-90 LEMBAR RP.240.000, 91-100 LEMBAR RP.260.000"
+  },
+  {
+    "id": "17",
+    "name": "",
+    "category": "Buket Uang",
+    "price": {
+      "5 Lembar": 45000,
+      "10 Lembar": 55000,
+      "11-20 Lembar": 65000,
+      "21-30 Lembar": 100000,
+      "31-40 Lembar": 120000,
+      "41-50 Lembar": 150000,
+      "51-60 Lembar": 170000,
+      "61-70 Lembar": 190000,
+      "71-80 Lembar": 220000,
+      "81-90 Lembar": 240000,
+      "91-100 Lembar": 260000
+    },
+    "image": "/images/17.jpeg",
+    "description": "5 LEMBAR RP.45.000, 10 LEMBAR RP.55.000, 11-20 LEMBAR RP.65.000, 21-30 LEMBAR RP.100.000, 31-40 LEMBAR RP.120.000, 41-50 LEMBAR RP.150.000, 51-60 LEMBAR RP.170.000, 61-70 LEMBAR RP.190.000, 71-80 LEMBAR RP.220.000, 81-90 LEMBAR RP.240.000, 91-100 LEMBAR RP.260.000"
+  },
+  {
+    "id": "18",
+    "name": "",
+    "category": "Buket Uang",
+    "price": {
+      "5 Lembar": 45000,
+      "10 Lembar": 55000,
+      "11-20 Lembar": 65000,
+      "21-30 Lembar": 100000,
+      "31-40 Lembar": 120000,
+      "41-50 Lembar": 150000,
+      "51-60 Lembar": 170000,
+      "61-70 Lembar": 190000,
+      "71-80 Lembar": 220000,
+      "81-90 Lembar": 240000,
+      "91-100 Lembar": 260000
+    },
+    "image": "/images/18.jpeg",
+    "description": "5 LEMBAR RP.45.000, 10 LEMBAR RP.55.000, 11-20 LEMBAR RP.65.000, 21-30 LEMBAR RP.100.000, 31-40 LEMBAR RP.120.000, 41-50 LEMBAR RP.150.000, 51-60 LEMBAR RP.170.000, 61-70 LEMBAR RP.190.000, 71-80 LEMBAR RP.220.000, 81-90 LEMBAR RP.240.000, 91-100 LEMBAR RP.260.000"
+  },
+  {
+    "id": "19",
+    "name": "",
+    "category": "Buket Uang",
+    "price": {
+      "5 Lembar": 45000,
+      "10 Lembar": 55000,
+      "11-20 Lembar": 65000,
+      "21-30 Lembar": 100000,
+      "31-40 Lembar": 120000,
+      "41-50 Lembar": 150000,
+      "51-60 Lembar": 170000,
+      "61-70 Lembar": 190000,
+      "71-80 Lembar": 220000,
+      "81-90 Lembar": 240000,
+      "91-100 Lembar": 260000
+    },
+    "image": "/images/19.jpeg",
+    "description": "5 LEMBAR RP.45.000, 10 LEMBAR RP.55.000, 11-20 LEMBAR RP.65.000, 21-30 LEMBAR RP.100.000, 31-40 LEMBAR RP.120.000, 41-50 LEMBAR RP.150.000, 51-60 LEMBAR RP.170.000, 61-70 LEMBAR RP.190.000, 71-80 LEMBAR RP.220.000, 81-90 LEMBAR RP.240.000, 91-100 LEMBAR RP.260.000"
+  },
+  {
+    "id": "20",
+    "name": "",
+    "category": "Buket Bunga",
+    "price": 130000,
+    "image": "/images/20.jpeg",
+    "description": ""
+  },
+  {
+    "id": "21",
+    "name": "",
+    "category": "Buket Bunga",
+    "price": 120000,
+    "image": "/images/21.jpeg",
+    "description": ""
+  },
+  {
+    "id": "22",
+    "name": "",
+    "category": "Buket Bunga",
+    "price": 35000,
+    "image": "/images/22.jpeg",
+    "description": ""
+  },
+  {
+    "id": "23",
+    "name": "",
+    "category": "Buket Bunga",
+    "price": 100000,
+    "image": "/images/23.jpeg",
+    "description": ""
+  },
+  {
+    "id": "24",
+    "name": "",
+    "category": "Buket Bunga",
+    "price": 75000,
+    "image": "/images/24.jpeg",
+    "description": ""
+  },
+  {
+    "id": "25",
+    "name": "",
+    "category": "Buket Bunga",
+    "price": 75000,
+    "image": "/images/25.jpeg",
+    "description": ""
+  },
+  {
+    "id": "26",
+    "name": "",
+    "category": "Buket Bunga",
+    "price": 100000,
+    "image": "/images/26.jpeg",
+    "description": ""
+  },
+  {
+    "id": "27",
+    "name": "",
+    "category": "Buket Bunga",
+    "price": 100000,
+    "image": "/images/27.jpeg",
+    "description": ""
+  },
+  {
+    "id": "28",
+    "name": "",
+    "category": "Buket Bunga",
+    "price": 50000,
+    "image": "/images/28.png",
+    "description": "KERUDUNG"
+  },
+  {
+    "id": "29",
+    "name": "",
+    "category": "Buket Bunga",
+    "price": 100000,
+    "image": "/images/29.jpeg",
+    "description": ""
+  },
+  {
+    "id": "30",
+    "name": "",
+    "category": "Buket Bunga",
+    "price": 55000,
+    "image": "/images/30.jpeg",
+    "description": ""
+  },
+  {
+    "id": "31",
+    "name": "",
+    "category": "Buket Bunga",
+    "price": 60000,
+    "image": "/images/31.jpeg",
+    "description": ""
+  },
+  {
+    "id": "32",
+    "name": "",
+    "category": "Buket Jajan",
+    "price": 35000,
+    "image": "/images/32.png",
+    "description": "Harga sesuai request, mulai dari Rp 35.000 - Rp 50.000"
+  },
+  {
+    "id": "33",
+    "name": "",
+    "category": "Buket Jajan",
+    "price": 35000,
+    "image": "/images/33.png",
+    "description": "Harga sesuai request, mulai dari Rp 35.000 - Rp 50.000"
+  },
+  {
+    "id": "34",
+    "name": "",
+    "category": "Buket Jajan",
+    "price": 35000,
+    "image": "/images/34.jpeg",
+    "description": "Harga sesuai request, mulai dari Rp 35.000 - Rp 50.000"
+  },
+  {
+    "id": "35",
+    "name": "",
+    "category": "Buket Jajan",
+    "price": 35000,
+    "image": "/images/35.jpeg",
+    "description": "Harga sesuai request, mulai dari Rp 35.000 - Rp 50.000"
+  },
+  {
+    "id": "36",
+    "name": "",
+    "category": "Buket Jajan",
+    "price": 35000,
+    "image": "/images/36.jpeg",
+    "description": "Harga sesuai request, mulai dari Rp 35.000 - Rp 50.000"
+  },
+  {
+    "id": "37",
+    "name": "",
+    "category": "Buket Jajan",
+    "price": 35000,
+    "image": "/images/37.jpeg",
+    "description": "Harga sesuai request, mulai dari Rp 35.000 - Rp 50.000"
+  },
+  {
+    "id": "38",
+    "name": "",
+    "category": "Buket Custom",
+    "price": 75000,
+    "image": "/images/38.jpeg",
+    "description": ""
+  },
+  {
+    "id": "39",
+    "name": "",
+    "category": "Buket Custom",
+    "price": 35000,
+    "image": "/images/39.jpeg",
+    "description": ""
+  },
+  {
+    "id": "40",
+    "name": "",
+    "category": "Buket Custom",
+    "price": 75000,
+    "image": "/images/40.jpeg",
+    "description": ""
+  },
+  {
+    "id": "41",
+    "name": "",
+    "category": "Buket Custom",
+    "price": 45000,
+    "image": "/images/41.jpeg",
+    "description": "Rp. 45.000 - Rp. 50.000"
+  },
+  {
+    "id": "42",
+    "name": "",
+    "category": "Buket Custom",
+    "price": 130000,
+    "image": "/images/42.jpeg",
+    "description": ""
+  },
+  {
+    "id": "43",
+    "name": "",
+    "category": "Buket Custom",
+    "price": 35000,
+    "image": "/images/43.png",
+    "description": "Jasa Saja"
+  },
+  {
+    "id": "44",
+    "name": "",
+    "category": "Buket Base",
+    "price": 35000,
+    "image": "/images/44.jpeg",
+    "description": "Base buket siap pakai, dapat diisi dengan bunga, uang, snack, atau gift favorit sesuai kebutuhan"
+  }
+]
